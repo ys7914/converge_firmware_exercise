@@ -1,0 +1,393 @@
+{
+  "packages": [
+    {
+      "name": "SparkFun",
+      "maintainer": "SparkFun Electronics",
+      "websiteURL": "https://SparkFun.com",
+      "email": "TechSupport@SparkFun.com",
+      "help": {
+        "online": "https://forum.sparkfun.com"
+      },
+      "platforms": [
+        {
+          "name": "SparkFun AVR Boards",
+          "architecture": "avr",
+          "version": "1.1.5",
+          "category": "Contributed",
+          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfunboards.1.1.5.tar.bz2",
+          "archiveFileName": "sparkfunboards.1.1.5.tar.bz2",
+          "checksum": "SHA-256:41f9728983e0dbab597bb46ddf00b5bac6cfec7c8f3771ecd1612dae58bb0366",
+          "size": "1162215",
+          "help": {
+            "online": "https://forums.sparkfun.com"
+          },
+          "boards": [
+            {
+              "name": "RedBoard"
+            },
+            {
+              "name": "MaKey MaKey"
+            },
+            {
+              "name": "Pro Micro"
+            },
+            {
+              "name": "Fio v3"
+            },
+            {
+              "name": "Qduino Mini"
+            },
+            {
+              "name": "Digital Sandbox"
+            },
+            {
+              "name": "Mega Pro"
+            },
+            {
+              "name": "RedBot"
+            },
+            {
+              "name": "Serial 7-segment Display"
+            },
+            {
+              "name": "ATmega128RFA1 Dev Board"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "SparkFun AVR Boards",
+          "architecture": "avr",
+          "version": "1.1.6",
+          "category": "Contributed",
+          "url": "https://github.com/sparkfun/Arduino_Boards/raw/LilyMini_testing/IDE_Board_Manager/sparkfunboards.1.1.6.tar.bz2",
+          "archiveFileName": "sparkfunboards.1.1.6.tar.bz2",
+          "checksum": "SHA-256:049FA0DF51602120EC1BDAC19F440FC0CC448C23BB277DD0D8DF855C52ACD483",
+          "size": "1159276",
+          "help": {
+            "online": "https://forums.sparkfun.com"
+          },
+          "boards": [
+            {
+              "name": "RedBoard"
+            },
+            {
+              "name": "MaKey MaKey"
+            },
+            {
+              "name": "Pro Micro"
+            },
+            {
+              "name": "Fio v3"
+            },
+            {
+              "name": "Qduino Mini"
+            },
+            {
+              "name": "Digital Sandbox"
+            },
+            {
+              "name": "Mega Pro"
+            },
+            {
+              "name": "RedBot"
+            },
+            {
+              "name": "Serial 7-segment Display"
+            },
+            {
+              "name": "ATmega128RFA1 Dev Board"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.0.0.tar.bz2",
+          "archiveFileName": "sparkfun-samd-1.0.0.tar.bz2",
+          "checksum": "SHA-256:12e0be6862a3a28b6515755dcad2842757caf4e5270326554f95059512ebaab5",
+          "size": "268954",
+          "help": {
+            "online": "https://forums.sparkfun.com"
+          },
+          "boards": [
+            {
+              "name": "SparkFun SAMD21 Mini Breakout"
+            },
+            {
+              "name": "SparkFun SAMD21 Dev Breakout"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
+          "architecture": "samd",
+          "version": "1.1.0",
+          "category": "Contributed",
+          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.1.0.tar.bz2",
+          "archiveFileName": "sparkfun-samd-1.1.0.tar.bz2",
+          "checksum": "SHA-256:5d71cbf8ccf5781eef9809d7b3141041daf3ed1a1272f5278762ece5a0aecf44",
+          "size": "279683",
+          "help": {
+            "online": "https://forums.sparkfun.com"
+          },
+          "boards": [
+            {
+              "name": "SparkFun SAMD21 Mini Breakout"
+            },
+            {
+              "name": "SparkFun SAMD21 Dev Breakout"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
+          "architecture": "samd",
+          "version": "1.2.0",
+          "category": "Contributed",
+          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.2.0.tar.bz2",
+          "archiveFileName": "sparkfun-samd-1.2.0.tar.bz2",
+          "checksum": "SHA-256:50e055f311e07ba4d154bf00aa10579648024bef680bb3eb267401c496f791e6",
+          "size": "281932",
+          "help": {
+            "online": "https://forums.sparkfun.com"
+          },
+          "boards": [
+            {
+              "name": "SparkFun SAMD21 Mini Breakout"
+            },
+            {
+              "name": "SparkFun SAMD21 Dev Breakout"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.6)",
+          "architecture": "samd",
+          "version": "1.2.1",
+          "category": "Contributed",
+          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.2.1.tar.bz2",
+          "archiveFileName": "sparkfun-samd-1.2.1.tar.bz2",
+          "checksum": "SHA-256:63b90fb26a18a89b2f51556a08286117cdade38d6cb7a16eb1eccb7d1d92422a",
+          "size": "280405",
+          "help": {
+            "online": "https://forums.sparkfun.com"
+          },
+          "boards": [
+            {
+              "name": "SparkFun SAMD21 Mini Breakout"
+            },
+            {
+              "name": "SparkFun SAMD21 Dev Breakout"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.8)",
+          "architecture": "samd",
+          "version": "1.2.2",
+          "category": "Contributed",
+          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.2.2.tar.bz2",
+          "archiveFileName": "sparkfun-samd-1.2.2.tar.bz2",
+          "checksum": "SHA-256:21bc1ab1a8fd6550dca3b4953deaa2066d49ffa2583cd8e8a1e36d0c0ab00d52",
+          "size": "283240",
+          "help": {
+            "online": "https://forums.sparkfun.com"
+          },
+          "boards": [
+            {
+              "name": "SparkFun SAMD21 Mini Breakout"
+            },
+            {
+              "name": "SparkFun SAMD21 Dev Breakout"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.8)",
+          "architecture": "samd",
+          "version": "1.3.0",
+          "category": "Contributed",
+          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.3.0.tar.bz2",
+          "archiveFileName": "sparkfun-samd-1.3.0.tar.bz2",
+          "checksum": "SHA-256:87695137f303000099e7e6d3fae3e87d5882ed999e4c14403c65cf51a4d6a6be",
+          "size": "195440",
+          "help": {
+            "online": "https://forums.sparkfun.com"
+          },
+          "boards": [
+            {
+              "name": "SparkFun SAMD21 Mini Breakout"
+            },
+            {
+              "name": "SparkFun SAMD21 Dev Breakout"
+            },
+            {
+              "name": "SparkFun 9DoF Razor IMU M0"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.9)",
+          "architecture": "samd",
+          "version": "1.3.2",
+          "category": "Contributed",
+          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.3.2.tar.bz2",
+          "archiveFileName": "sparkfun-samd-1.3.2.tar.bz2",
+          "checksum": "SHA-256:eb4274a3df4c6c4dbc1396600b1efc9cd9454e5be4880530ff87ba4fb3e6216a",
+          "size": "206253",
+          "help": {
+            "online": "https://forums.sparkfun.com"
+          },
+          "boards": [
+            {
+              "name": "SparkFun SAMD21 Mini Breakout"
+            },
+            {
+              "name": "SparkFun SAMD21 Dev Breakout"
+            },
+            {
+              "name": "SparkFun 9DoF Razor IMU M0"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "SparkFun SAMD Boards",
+          "architecture": "samd",
+          "version": "1.4.0",
+          "category": "Contributed",
+          "url": "https://github.com/sparkfun/Arduino_Boards/raw/LilyMini_testing/IDE_Board_Manager/sparkfun-samd-1.4.0.tar.bz2",
+          "archiveFileName": "sparkfun-samd-1.4.0.tar.bz2",
+          "checksum": "SHA-256:968918117E6EA9C7F3982F83E07B6459663AB844779855B5E175E19461C16691",
+          "size": "289555",
+          "help": {
+            "online": "https://forums.sparkfun.com"
+          },
+          "boards": [
+            {
+              "name": "SparkFun SAMD21 Mini Breakout"
+            },
+            {
+              "name": "SparkFun SAMD21 Dev Breakout"
+            },
+            {
+              "name": "SparkFun 9DoF Razor IMU M0"
+            },
+            {
+              "name": "LilyPad LilyMini"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "SparkFun",
+              "name": "bossac",
+              "version": "1.4.0"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "name": "bossac",
+          "version": "1.4.0",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/sparkfun/Arduino_Boards/raw/LilyMini_testing/sparkfun/samd-tools/bossac/bossac-1.4.0-win.zip",
+              "archiveFileName": "bossac-1.4.0-win.zip",
+              "checksum": "SHA-256:BCA6503F5DBB1F96693AFD0701A759ECFB3BE5B9FB3F9D901CA17853B224F4EB",
+              "size": "314705"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/sparkfun/Arduino_Boards/raw/LilyMini_testing/sparkfun/samd-tools/bossac/bossac-1.4.0-linux64.tar.bz2",
+              "archiveFileName": "bossac-1.4.0-linux64.tar.bz2",
+              "checksum": "SHA-256:BB8F398BF84C5F31880FE9A2C7AE0174592516CE4821B49744B426AA968ADA10",
+              "size": "225696"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/sparkfun/Arduino_Boards/raw/LilyMini_testing/sparkfun/samd-tools/bossac/bossac-1.4.0-osx.tar.bz2",
+              "archiveFileName": "bossac-1.4.0-osx.tar.bz2",
+              "checksum": "SHA-256:D0F225846D7BC80A74324D783CDB35C42A7F85EAD73CC016C0CC767B0AA5E81C",
+              "size": "74461"
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "name": "AOC SECURIMET",
+      "maintainer": "AOC Pte Ltd SG",
+      "websiteURL": "http://www.aoc.com.sg/",
+      "email": "enquiry@aoc.com.sg",
+      "platforms": [
+        {
+          "name": "AOC SECURIMET SAMD Boards",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "http://128.199.171.241/arduino/aoc-securimet-samd-1.0.0.zip",
+          "archiveFileName": "aoc-securimet-samd-1.0.0.zip",
+          "checksum": "SHA-256:19d4034a8c3e908a017c0dd774544e0ac92b873bd73d279fd6c20b059e370772",
+          "size": "362724",
+          "help": {
+			"online": "http://www.aoc.com.sg/contact/"
+          },
+          "boards": [
+            {
+              "name": "AOC SECURIMET SAMD"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "SparkFun",
+              "name": "bossac",
+              "version": "1.4.0"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "name": "bossac",
+          "version": "1.4.0",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/sparkfun/Arduino_Boards/raw/LilyMini_testing/sparkfun/samd-tools/bossac/bossac-1.4.0-win.zip",
+              "archiveFileName": "bossac-1.4.0-win.zip",
+              "checksum": "SHA-256:BCA6503F5DBB1F96693AFD0701A759ECFB3BE5B9FB3F9D901CA17853B224F4EB",
+              "size": "314705"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/sparkfun/Arduino_Boards/raw/LilyMini_testing/sparkfun/samd-tools/bossac/bossac-1.4.0-linux64.tar.bz2",
+              "archiveFileName": "bossac-1.4.0-linux64.tar.bz2",
+              "checksum": "SHA-256:BB8F398BF84C5F31880FE9A2C7AE0174592516CE4821B49744B426AA968ADA10",
+              "size": "225696"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/sparkfun/Arduino_Boards/raw/LilyMini_testing/sparkfun/samd-tools/bossac/bossac-1.4.0-osx.tar.bz2",
+              "archiveFileName": "bossac-1.4.0-osx.tar.bz2",
+              "checksum": "SHA-256:D0F225846D7BC80A74324D783CDB35C42A7F85EAD73CC016C0CC767B0AA5E81C",
+              "size": "74461"
+            }
+          ]
+        }
+      ]
+    }
+	
+  ]
+}
